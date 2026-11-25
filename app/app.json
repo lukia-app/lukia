@@ -30,6 +30,12 @@
     },
     "plugins": [
       "expo-sqlite"
-    ]
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "f5cde806-6092-485e-9cc5-51951b6a38b0"
+      }
+    },
+    "owner": "corecodev"
   }
 }
